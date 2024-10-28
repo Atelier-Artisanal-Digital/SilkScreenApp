@@ -5,6 +5,8 @@ categories: misc
 date: 2024-10-28
 ---
 
+_Last updated: {{ page.date | date: "%B %d, %Y" }}_
+
 ## Introduction
 
 Welcome to **SilkScreen**, an app developed and published by **Atelier Artisanal Digital**. Your privacy is important to us, and we are committed to protecting it. This Privacy Policy outlines how we collect, use, and safeguard your information when you use the **SilkScreen** app.
@@ -50,5 +52,5 @@ We may update this Privacy Policy from time to time. When we make changes, we wi
 
 If you have any questions about this Privacy Policy, please contact us at:
 
-- **Email**: _[Your Contact Email]_  
+- **Email**: _silkscreenapp@diprofio.net_  
 - **Company**: **Atelier Artisanal Digital**
