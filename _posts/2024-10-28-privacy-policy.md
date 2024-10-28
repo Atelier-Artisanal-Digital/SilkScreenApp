@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Privacy Policy"
-categories: policy, privacy
+categories: privacy
 date: 2024-10-28
 ---
 
