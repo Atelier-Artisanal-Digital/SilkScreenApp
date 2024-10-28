@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Privacy Policy"
-categories: misc
+categories: policy, privacy
 date: 2024-10-28
 ---
 
@@ -42,7 +42,7 @@ For more information about **RevenueCat**’s privacy practices, you can refer t
 
 ## Changes to This Privacy Policy
 
-We may update this Privacy Policy from time to time. When we make changes, we will notify you by updating the "Last Updated" date at the top of this page.
+We may update this Privacy Policy from time to time. When we make changes, we will notify you by updating the date at the top of this page.
 
 ---
 
