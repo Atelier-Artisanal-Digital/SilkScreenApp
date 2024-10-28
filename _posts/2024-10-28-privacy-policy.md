@@ -2,7 +2,6 @@
 layout: post
 title: "Privacy Policy"
 categories: privacy
-date: 2024-10-28
 ---
 
 _Last updated: {{ page.date | date: "%B %d, %Y" }}_
@@ -53,4 +52,3 @@ We may update this Privacy Policy from time to time. When we make changes, we wi
 If you have any questions about this Privacy Policy, please contact us at:
 
 - **Email**: _silkscreenapp@diprofio.net_  
-- **Company**: **Atelier Artisanal Digital**
