@@ -80,6 +80,6 @@ We may update this Privacy Policy from time to time. Updates will be effective i
 If you have any questions or concerns about this Privacy Policy, contact us at:
 
 **Atelier Artisanal Digital**  
-support@atelierartisanal.digital
+[Contact Email](mailto:silkscreenapp@diprofio.net)
 
 Thank you for trusting us with your privacy!
