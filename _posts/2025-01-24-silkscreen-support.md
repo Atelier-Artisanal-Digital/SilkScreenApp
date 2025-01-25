@@ -2,7 +2,7 @@
 
 **Welcome to SilkScreen!**
 
-This document is here to help you get started with SilkScreen, answer common questions, and provide guidance on using the app. If you need further assistance, feel free to contact us at **[contact email](mailto:silkscreenapp@diprofio.net)**.
+This document is here to help you get started with SilkScreen, answer common questions, and provide guidance on using the app. If you need further assistance, feel free to contact us at [Contact Email](mailto:silkscreenapp@diprofio.net).
 
 ---
 
