@@ -18,10 +18,10 @@ If you choose to create an account using Sign in with Apple, we collect:
 This information is used to link purchases and allow access on multiple devices.
 
 #### 1.2 In-App Purchases
-We use RevenueCat to manage in-app purchases. RevenueCat collects purchase-related information without linking it to your identity or performing any tracking. For details, see RevenueCat’s Privacy Policy: https://www.revenuecat.com/privacy
+We use RevenueCat to manage in-app purchases. RevenueCat collects purchase-related information without linking it to your identity or performing any tracking. For details, see RevenueCat’s Privacy Policy: [https://www.revenuecat.com/privacy](https://www.revenuecat.com/privacy)
 
 #### 1.3 Usage Analytics
-TelemetryDeck is used to collect anonymized usage data to help improve the App’s performance and functionality. TelemetryDeck does not link data to your identity or track you. For more information, see TelemetryDeck’s Privacy FAQ: https://telemetrydeck.com/docs/guides/privacy-faq/
+TelemetryDeck is used to collect anonymized usage data to help improve the App’s performance and functionality. TelemetryDeck does not link data to your identity or track you. For more information, see TelemetryDeck’s Privacy FAQ: [https://telemetrydeck.com/docs/guides/privacy-faq/](https://telemetrydeck.com/docs/guides/privacy-faq/)
 
 #### 1.4 Automatically Collected Data
 We may collect non-identifiable information, such as:
