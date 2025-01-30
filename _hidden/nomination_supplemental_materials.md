@@ -1,3 +1,9 @@
+---
+layout: default
+title: App Store Nomination Supplemental Information
+permalink: /private/
+---
+
 # SilkScreen - Embark on a Creative Journey
 
 **SilkScreen - App Store Feature Nomination Submission**
