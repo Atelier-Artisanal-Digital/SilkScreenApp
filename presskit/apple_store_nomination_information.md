@@ -19,15 +19,17 @@ The initial inspiration was the MeshGradient view announced at WWDC24. The proje
 
 ---
 
-## Helpful Details
+## About Myself
 
-I’m both a technologist and an artist, and I love blending these worlds to create meaningful experiences. Building apps allows me to merge creativity with technology in a way that feels natural and expressive. To me, an iPhone or Apple Watch isn’t just a device—it’s a canvas for unique, interactive experiences. I approach app development as an artisan would their craft, focusing on the details that make using an app feel intuitive, immersive,  thoughtfully designed, and beautiful.
+I’m both a technologist and an aesthete, and I love blending these worlds to create meaningful experiences. Building apps allows me to merge creativity with technology in a way that feels natural and expressive. To me, an iPhone or Apple Watch isn’t just a device—it’s a canvas for unique, interactive experiences. I approach app development as an artisan would their craft, focusing on the details that make using an app feel intuitive, immersive,  thoughtfully designed, and beautiful.
 
 ---
 
-## Supplemental Materials
+# Supplemental Materials
 
-### User Experience: A Cohesive and Joyful Creative Journey
+Looking at the criteria Apple uses to approve nominations, I think that SilkScreen is doing something right in the areas below.
+
+## User Experience: A Cohesive and Joyful Creative Journey
 
 SilkScreen is meticulously designed to be a seamless, efficient, and delightful experience for users of all skill levels. It offers:
 
