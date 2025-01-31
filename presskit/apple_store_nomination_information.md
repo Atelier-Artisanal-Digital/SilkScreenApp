@@ -1,7 +1,7 @@
 ---
 layout: base
 title: App Store Nomination Supplemental Information
-permalink: /presskit/
+permalink: /presskit/apple_store_nomination_information.html
 ---
 
 # SilkScreen - Embark on a Creative Journey
