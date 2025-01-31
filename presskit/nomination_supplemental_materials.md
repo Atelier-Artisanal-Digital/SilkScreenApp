@@ -1,7 +1,7 @@
 ---
 layout: default
 title: App Store Nomination Supplemental Information
-permalink: /private/
+permalink: /presskit/
 ---
 
 # SilkScreen - Embark on a Creative Journey
